@@ -1,0 +1,10 @@
+.about {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    background-color: rgb(177, 243, 244);
+    width: 80svh;
+    height: 80svh;
+    font-size: 50px;
+  }
+  

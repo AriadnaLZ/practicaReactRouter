@@ -1,0 +1,9 @@
+.skills {
+  display: flex;
+justify-content: center;
+align-items: center;
+  background-color: rgb(244, 215, 177);
+  width: 80svh;
+  height: 80svh;
+  font-size: 50px;
+}

@@ -1,0 +1,26 @@
+header {
+  width: 100svh;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+header ul {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+}
+
+header li {
+  text-decoration: none;
+  list-style: none;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+text-decoration: underline;
+text-underline-offset: 4px;
+}
